@@ -1,0 +1,110 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 619540 */
+  src: url('https://at.alicdn.com/t/font_619540_7o9i6tygmf1xajor.eot');
+  src: url('https://at.alicdn.com/t/font_619540_7o9i6tygmf1xajor.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_619540_7o9i6tygmf1xajor.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_619540_7o9i6tygmf1xajor.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_619540_7o9i6tygmf1xajor.svg#iconfont') format('svg');
+}
+#header{
+	width: 100%;
+	height: 0.93rem;
+	padding-top: 0.3rem;
+	background: #ffffff;
+	border-bottom: 0.02rem solid #c6c8c7;
+	
+}
+.header_main{
+	width: 6.56rem;
+	height: 0.32rem;
+	
+	margin: 0 auto ;
+	line-height: 0.32rem;
+	color: #333;
+	font-size: 0.32rem;
+}
+.header_return,.header_cancel{
+	font-family: 'iconfont';
+	font-weight: 700;
+	float: left;
+	color: #0e8dea;
+	margin-right: 0.36rem;
+}
+
+.header_main p{
+	float: left;
+}
+body{
+	background-color: #fff;
+}
+#zhuti{
+	width: 100%;
+	height: 2.81rem;
+	padding-top: 0.72rem;
+}
+.zhuti_main	{
+	width: 2.75rem;
+	height: 1.19rem;
+	margin:  0 auto;
+}
+#login{
+	width: 100%;
+	height: 0.40rem;
+}
+.login_main{
+	width: 3.1rem;
+	height: 0.4rem;
+	margin: 0 auto;
+	color: #4f4f4f;
+	font-size: 0.26rem;
+}
+.login_message,.pwd_message{
+	display: block;
+	float: left;
+	margin-right: 0.9rem;
+}
+.pwd_message{
+	margin-right: 0;
+}
+.active{
+	color: #1c91fa;
+	 font-weight: 700;
+	 border-bottom: 0.02rem solid #1c91fa;
+}
+.yangshi{
+	width: 100%;
+	margin-top: 0.18rem;
+
+}
+.login_username,.login_pwd{
+	width: 5.95rem;
+	height: 0.92rem;
+	margin: 0 auto 0.36rem;
+	border: 0;
+	border: 0.02rem solid #dcdcdc;
+	color: #979797;
+	font-size: 0.24rem;
+	border-radius: 0.1rem;
+	line-height: 0.92rem;
+	padding-left: 0.24rem;
+	display: block;
+}
+.login_button,.login_women{
+	width: 5.95rem;
+	height: 0.83rem;
+	border: 0;
+	border-radius: 0.1rem;
+	
+	text-align: center;
+	margin: 0 auto;
+	line-height: 0.83rem;
+	background: #fff;
+	color: #9a9a9a;
+	font-weight: 700;
+	display: block;
+	font-size: 0.28rem;
+}
+.action{
+	background: #4bd96d;
+	color: #ffffff;
+}

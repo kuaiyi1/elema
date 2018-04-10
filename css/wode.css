@@ -1,0 +1,253 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 619540 */
+  src: url('https://at.alicdn.com/t/font_619540_j2rtq8t8cwnuerk9.eot');
+  src: url('https://at.alicdn.com/t/font_619540_j2rtq8t8cwnuerk9.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_619540_j2rtq8t8cwnuerk9.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_619540_j2rtq8t8cwnuerk9.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_619540_j2rtq8t8cwnuerk9.svg#iconfont') format('svg');
+}
+#header{
+	width: 100%;
+	height: 0.93rem;
+	padding-top: 0.3rem;
+	background: #ffffff;
+	
+}
+.header_main{
+	width: 6.56rem;
+	height: 0.32rem;
+	
+	margin: 0 auto ;
+	line-height: 0.32rem;
+	color: #333;
+	font-size: 0.32rem;
+}
+.header_return{
+	font-family: 'iconfont';
+	font-weight: 700;
+	float: left;
+	color: #0e8dea;
+	margin-right: 0.36rem;
+}
+.header_main p{
+	float: left;
+}
+#person{
+	width: 100%;
+	height: 2.1rem;
+	background: #00a8fd;
+	padding-top: 0.46rem;
+}
+.person_main{
+	width: 6.6rem;
+	height: 1.18rem;
+	margin:0 auto;
+
+}
+.person_main_left{
+	width: 1.18rem;
+	height: 100%;
+	border-radius: 50%;
+	background: #fff;
+	margin-right: 0.34rem;
+	float: left;
+	position: relative;
+	overflow: hidden;
+}
+.touxiang{
+	position: absolute;
+	color: #dcdcdc;
+	left: 0.09rem;
+	bottom: 0;
+	font-size: 1rem;
+	font-family: 'iconfont';
+}
+.person_main_middle{
+	color: #fff;
+	float: left;
+	font-size: 0.3rem;
+}
+
+.person_zhnaghao{
+	font-weight: 700;
+	margin-bottom: 0.28rem;
+}
+.person_icon{
+	font-size: 0.2rem;
+	margin-right: 0.07rem;
+	font-family: 'iconfont';
+	display: inline-block;
+	margin-right: 0.1rem;
+}
+.person_phone{
+	font-size: 0.16rem;
+	display: inline-block;
+}
+.person_main_right{
+	float: right;
+	height: 100%;
+	line-height: 1.18rem;
+	color: #fff;
+	font-size: 0.18rem;
+	text-align: center;
+}
+.person_return{
+	font-weight: 600;
+	font-family: 'iconfont';
+
+}
+#three{
+	width: 100%;
+	height: 1.6rem;
+	overflow: hidden;
+	background: #fff;
+}
+.three_item{
+	width: 2.4rem;
+	height: 1.58rem;
+	border-width: 0 0.02rem 0.02rem 0;
+	border-style: solid;
+	border-color: #dcdcdc;
+	padding-top: 0.38rem;
+	font-size: 0.18rem;
+	color: #0096f6;
+	line-height: 0.4rem;
+	float: left;
+
+}
+.three_price{
+	font-size: 0.36rem;
+	font-weight: 700;
+	width: 0.97rem;
+	height: 0.36rem;
+	margin: 0 0 0.17rem 0.6rem;
+	float: left;
+	text-align: center;
+	line-height: 0.36rem;
+}
+.three_number,.three_jinbinumber{
+	font-size: 0.36rem;
+	font-weight: 700;
+	width: 0.36rem;
+	height: 0.36rem;
+	margin: 0 0 0.17rem 0.8rem;
+	float: left;
+	text-align: right;
+	line-height: 0.36rem;
+}
+.three_backg{
+	font-size: 0.22rem;
+	margin-top: 0.17rem;
+	
+	text-align: center;
+	color: #656565;
+	font-weight: 600;
+}
+.action{
+	color:#fb5d40;
+	
+}
+.action1{
+	color: #6dbf05;
+}
+#active{
+    width: 100%;
+    height: 1.55rem;
+    margin-top: 0.18rem;
+    margin-bottom: 0.21rem;
+    padding-left: 0.56rem;
+    background: #ebd98f;
+    padding-top: 0.33rem;
+    font-size: 0.36rem;
+    color: #683905;
+    font-weight: 700;
+    font-family: 'iconfont';
+
+}
+.active_vip{
+	margin: 0 0 0.16rem 0;
+	color: #957b1e;
+	font-size: 0.26rem;
+	line-height: 0.26rem;
+	height: 0.26rem;
+}
+.active_price{
+	color: #ee392e;
+	display: inline-block;
+}
+#adress,#mall,#service{
+	width: 100%;
+	height: 0.84rem;
+	background: #fff;
+	border-width: 0.02rem 0 0.02rem 0;
+	margin-bottom: 0.2rem;
+	padding-top: 0.23rem;
+	padding-left: 0.29rem;
+	font-size: 0.28rem;
+	color: #2d2d2d;
+	padding-right: 0.24rem;
+	border-style: solid;
+	border-color: #dddddd;
+}
+.address_icon,.mall_icon,.service_icon{
+	color: #45a9f5;
+	font-size: 0.32rem;
+	   font-family: 'iconfont';
+	   display: inline-block;
+	   margin-right: 0.22rem;
+}
+.color2{
+	color: #48a1f3;
+}
+.color1{
+	color: #91da4d;
+}
+.adress_name,.mall_name,.service_name{
+	display: inline-block;
+}
+.mores{
+	display: inline-block;
+	float: right;
+	font-size: 0.18rem;
+	color: #b9b9b9;
+	font-weight: 400;
+	font-family: 'iconfont';
+	padding-top: 0.14rem;
+}
+#footer{
+	width: 100%;
+	height: 0.96rem;
+	background: #fff;
+	box-shadow:0px 0px 8px #eeeeee;
+	position: fixed;
+	z-index: 1000;
+	bottom: 0;
+}
+.footer_main{
+	width: 6.81rem;
+	height: 0.58rem;
+	margin: 0.22rem auto;
+	
+}
+.footer_item{
+	width: 1.7025rem;
+	height: 100%;
+	
+	float: left;
+	text-align: center;
+	font-size: 0.34rem;
+	color: #818181;
+	line-height: 0.29rem;
+}
+.footer_icon{
+	
+	font-family:'iconfont'; 
+	font-weight: 700;
+}
+.footer_name{
+	font-weight: 500;
+	font-size: 0.18rem;
+}
+.color3{
+	color: #0095ff;
+}

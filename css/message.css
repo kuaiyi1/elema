@@ -1,0 +1,163 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 619540 */
+  src: url('https://at.alicdn.com/t/font_619540_j2rtq8t8cwnuerk9.eot');
+  src: url('https://at.alicdn.com/t/font_619540_j2rtq8t8cwnuerk9.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_619540_j2rtq8t8cwnuerk9.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_619540_j2rtq8t8cwnuerk9.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_619540_j2rtq8t8cwnuerk9.svg#iconfont') format('svg');
+}
+#header{
+	width: 100%;
+	height: 0.93rem;
+	padding-top: 0.3rem;
+	background: #ffffff;
+	border-bottom: 0.02rem solid #c6c8c7;
+	
+}
+.header_main{
+	width: 6.56rem;
+	height: 0.32rem;
+	
+	margin: 0 auto ;
+	line-height: 0.32rem;
+	color: #333;
+	font-size: 0.32rem;
+}
+.header_return{
+	font-family: 'iconfont';
+	font-weight: 700;
+	float: left;
+	color: #0e8dea;
+	margin-right: 0.36rem;
+}
+.header_main p{
+	float: left;
+}
+#person,#username{
+	width: 100%;
+	height: 1.34rem;
+	background: #fff;
+	border-bottom: 0.02rem solid #c6c8c7;
+	padding-top: 0.195rem;
+}
+
+.person_main,.user_main,.phone_main{
+	width: 6.52rem;
+	height: 0.95rem;
+	margin: 0 auto 0.195rem;
+	color: #333;
+	font-size: 0.3rem;
+	font-weight: 700;
+	line-height: 0.95rem;
+}
+
+.person_main p,.user_main p{
+	display: inline-block;
+}
+.person_right,.user_right,.phone_right{
+	float: right;
+	color: #949494;
+	font-size: 0.24rem;
+}
+.person_pricture{
+	width: 0.95rem;
+	height: 0.95rem;
+	background: #ffffff;
+	border-radius: 50%;
+	border:1px solid #000;
+	font-family: 'iconfont';
+	overflow: hidden;
+	font-size: 0.79rem;
+	text-align: center;
+	color: #dcdcdc;
+	margin-right: 0.12rem;
+	float: left;
+}
+.person_down,.user_down,.user_pricture,.phone_pricture,.phone_down{
+	display: inline-block;
+	font-family: 'iconfont';
+	line-height: 0.95rem;
+}
+.user_pricture,.phone_pricture{
+	margin-right: 0.2rem;
+	color:#626262;
+}
+.hua{
+	border-bottom: 0;
+}
+.user_binding,.security_setting{
+	width: 100%;
+	height: 0.73rem;
+	padding-top: 0.33rem;
+	padding-left: 0.29rem;
+	color: #a2a2a2;
+	font-size: 0.2rem;
+
+}
+.phone{
+	width: 100%;
+	height: 0.96rem;
+	background: #fff;
+	border-top: 0.02rem solid #ededed;
+
+}
+.phone_icon{
+	font-size: 0.32rem;
+	color: #0099fd;
+
+	display: inline-block;
+	font-family: 'iconfont';
+}
+.phones{
+	display: inline-block;
+}
+.security_item{
+	width: 100%;
+	height: 0.8rem;
+	background: #fff;
+	border-bottom: 0.02rem solid #eeeeee;
+	padding-top: 0.25rem;
+}
+.security_main{
+	width: 6.53rem;
+	height: 0.3rem;
+	margin: 0 auto 0.25rem;
+	color: #484848;
+	font-size: 0.3rem;
+	line-height: 0.3rem;
+}
+.security_right{
+	float: right;
+	line-height: 0.3rem;
+	color: #498cc1;
+	font-size: 0.3rem;
+}
+.none_setting{
+	display: inline-block;
+	float: left;
+
+	margin-right: 0.1rem;
+}
+.pwd{
+	display: inline-block;
+}
+.pwd_down{
+	display: inline-block;
+	font-size: 0.26rem;
+	color: #a0a0a0;
+	font-family: 'iconfont';
+}
+.exit{
+	width: 100%;
+	height: 1rem;
+	margin-top: 0.37rem;
+	background: #fff;
+	text-align: center;
+	line-height: 1rem;
+	
+	font-weight: 700;
+	font-size: 0.28rem;
+}
+.exit a{
+	color: #ff9077;
+}
